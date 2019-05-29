@@ -1,0 +1,2 @@
+			<input id="btnOrder" type="button" onclick="getReceipt()" 
+				value="Place Order">
